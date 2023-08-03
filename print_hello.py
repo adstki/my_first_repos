@@ -4,5 +4,5 @@ def print_hello():
     print("Hello World!")
 
 """Function that just prints hi!"""
-    def print_hi():
-        print("hi!")
+def print_hi():
+    print("hi!")
